@@ -18,4 +18,4 @@ decision and explain *why*, so a professional can trust and review the output.
 
 #### Elsewhere
 
-<!-- Add your links, e.g. [LinkedIn](https://www.linkedin.com/in/your-handle) -->
+[LinkedIn](https://www.linkedin.com/in/gautiertonongbe)
