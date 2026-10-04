@@ -9,6 +9,7 @@ decision and explain *why*, so a professional can trust and review the output.
 |---|---|---|
 | [**Auditly**](https://github.com/gautiertonongbe/auditly) | AI-assisted IT audit & SOX workspace: PBC tracking, control testing, segregation-of-duties analysis and Big 4-style Excel workpapers | TypeScript · React · tRPC · MySQL · LLM APIs |
 | [**Spreadline**](https://github.com/gautiertonongbe/spreadline) | Cross-market inventory intelligence: decides whether a price spread is a good inventory decision, scored on demand, competition, risk and capital | Python · FastAPI · Next.js · PostgreSQL |
+| [**TenderAtlas**](https://github.com/gautiertonongbe/tender-atlas) | Open-source search engine for procurement tenders across Africa: 36 scrapers covering government portals, World Bank, AfDB and UN agencies, with weekly email alerts | TypeScript · Next.js · MySQL · Cheerio |
 
 #### What I work on
 
